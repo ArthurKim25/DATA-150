@@ -1,5 +1,5 @@
 # DATA 150 - Arthur
 
-## Informal responses
+## Informal Responses
 
 ## Formal Assignments
