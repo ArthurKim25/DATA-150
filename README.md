@@ -3,5 +3,7 @@
 ## Informal Responses
 
 9/9/21 [Blumenstock Response](...)
-9/9/21 [Rosling Responses](rosling.html)
+
+9/9/21 [Rosling Responses](rosling.md)
+
 ## Formal Assignments
