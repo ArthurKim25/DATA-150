@@ -20,7 +20,12 @@ In accordance with Rosling's TED talk, there is a strong postive linear releatio
 
 ### Response to question 4
 
-Rosling shows that from 1962 to 2003, the global income distribution becomes less right-skewed than before. A Rosling previously explained a trend of global health generally improving, it makes sense that there is also an increase in wealth in accordance with the trend of better health resulting in better economic development.  
+Rosling shows that from 1962 to 2003, the global income distribution becomes less right-skewed than before.  Additionally, the mean GDP per capita increased. As Rosling previously explained a trend of global health generally improving, it makes sense that there is also an increase in wealth in accordance with the trend of better health resulting in better economic development.  
 
 ### Response to question 5
 
+Rosling using data to describe human development with very high spatial and temporal resolutions presents an easily-understood picture of the patterns of human development over time. This allows for a greater number of people to appreciate the information we have available and helps reduce common misconceptions among the greater population. This is important because for society to remain just, it is essential that the general population is well-informed.
+
+### Response to question 6
+
+Rosling's work with the Gapminder project is significant in my opinion because it helped make data from databases much more accessible to the public. By making data from databases more searchable, Rosling has helped allow for anyone to find the data and be able to examine the relationships that exist among it. With many more people being able to work with data, many new perspectives and interpretations will arise, giving us a greater understanding of the world. I think that Rosling has done wonders for our ability to understand global paradigms.  
