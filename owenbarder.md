@@ -1,6 +1,5 @@
 ## Arthur Kim
 ## Professor Frazier
-## Data 150
 ## 21 Sept 2021
 
 # Owen Barder Questions
