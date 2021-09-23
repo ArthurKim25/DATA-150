@@ -10,6 +10,8 @@ Hey guys, I'm Arthur Kim (he/him).  I'm from Pennington, New Jersey, and I plan 
 9/9/21 [Rosling Responses](rosling.html)
 
 9/21/21 [Barder Question Responses](owenbarder.html)
+
+9/23/21 [Data science and Evolving Solutions](essaysept23.html)
 ## Formal Assignments
 
 [Assignment 1: Annotated Bibliography](annotatedbibliography.html)
