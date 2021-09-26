@@ -13,4 +13,4 @@
 Dujardin, S., Jacques, D., Steele, J., & Linard, C. (2020). Mobile Phone Data for Urban Climate Change Adaptation: Reviewing Applications, Opportunities and Key Challenges. Sustainability, 12(4), 1501. https://doi.org/10.3390/su12041501
 
 ##### Annotation:
-The authors' main idea in this work is that geospatial data from mobile phones can be used to facilitate urban adaptation to the effects of climate change.  In addition, they emphasize the necessessity of government organizations to make better use of the data, knowledge and technology available for the purpose of addressing vulnerability to disasters and responding accordingly.
+The authors' main idea in this work is that geospatial data from mobile phones can be used to facilitate urban adaptation to the effects of climate change.  In addition, they emphasize the necessessity of government organizations to make better use of the data, knowledge and technology available for the purpose of addressing vulnerability to climate disasters and responding accordingly.  The main developmental problem the authors address is vulnerability and adaptive capabilities of urban communities to climate change disasters.  
