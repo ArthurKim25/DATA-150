@@ -29,4 +29,4 @@ The process of human development that the authors investigate is the incorporati
 Azzarri, C., &amp; Signorelli, S. (2019). Climate and poverty in Africa South of the Sahara. World Development, 125, 104691. https://doi.org/10.1016/j.worlddev.2019.104691 
 
 ##### Annotation:
-The main ideas explored in this article are examining poverty in Sub-Saharan Africa (SSA) as well as the effects of climate change and extreme weather events on SSA expenditure per capita. 
+The main ideas explored in this article are examining welfare and poverty in Sub-Saharan Africa (SSA) as well as the effects of climate change and extreme weather events on SSA expenditure per capita. The article focuses heavily on SSA agriculture, since it provides the vast majority of the SSA food supply, and its vulnerability to climate shocks is a major determinant of extreme poverty in SSA.  
