@@ -1,6 +1,5 @@
 ### Arthur Kim
 ### Professor Brewer
-### DATA 150
 ### 28 Sept 2021
 
 ## Personal Essay
