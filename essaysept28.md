@@ -3,7 +3,7 @@
 ### DATA 150
 ### 28 Sept 2021
 
-### Personal Essay
+## Personal Essay
 
 I am Arthur Kim, and I live in Pennington New Jersey. Throughout grade school, I have always been interested in mathamatics and science, especially chemistry. I have participated in multiple related clubs and even some competitions. Because of this, I now intend to major in chemsitry and also minor in mathematics. Science has also shaped some of my core values, in that I value truth and reason above most things. As a result, I love participating in intellectual discussions, and am enjoying the discussions that we have in class. Besides math and science, I play the cello and have played in youth orchestras and music festivals over the years. Although it is not my main priority, I do participate in the orchestra program here at William and Mary. Overall, I am happy to be here to further study my biggest academic interests.
 
