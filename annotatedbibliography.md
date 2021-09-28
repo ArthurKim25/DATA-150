@@ -42,4 +42,4 @@ The process of human development the authors investigate is how and why people a
 Eastin, J. (2018). Climate change and gender equality in developing states. World Development, 107, 289–305. https://doi.org/10.1016/j.worlddev.2018.02.021 
 
 ##### Annotation:
-
+The principal idea explored in this article is how vulnerability to climate change in developing countries not only highlights gender inequality, but also exacerbates it.
