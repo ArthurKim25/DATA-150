@@ -2,7 +2,6 @@
 
 ### Arthur Kim
 ### Professor Frazier
-### DATA 150 Human Development/Data Science
 ### 2 Oct 2021
 
 ###### Word Count:
