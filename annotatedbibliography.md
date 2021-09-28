@@ -36,3 +36,11 @@ This article relates to Sen's definition of human development due to its insight
 The datasets used by the authors are household surveys from 24 different SSA countries, as well as Standardized Precipitation Evapotranspiration Index (SPEI). The household surveys provide information of household consumption expenditure and income per capita at the sub-national level, which accounts for the heterogeneity within countries.  This allows for a more accurate picture of the distribution of poverty and welfare across SSA.  The SPEI accounts for precipitation, temperature, and evapotranspiration, which allows for the determination of droughts, heatwaves and floods. In order to determine the spatial correlation between climate change conditions and welfare and poverty, the authors utilize Moran's I test statistic and Lagrangian multiplier tests, followed by spatial regression analysis. They found that there is a correlation between welfare and the effects of climate change.  
 
 The process of human development the authors investigate is how and why people are unable to escape poverty and why poverty increases as a result of climate disasters. The scientific question that the authors investigate is the effect of cliamte change conditions on poverty rates and welfare in SSA. Because the increase in flooding and temperture from climate change negatively affects SSA agriculture, the people have less income and food security, bringing about conditions of poverty.
+
+### Article 3: Climate Change and Gender Equality in Developing States
+##### Author: Joshua Eastin
+##### Reference:
+Eastin, J. (2018). Climate change and gender equality in developing states. World Development, 107, 289–305. https://doi.org/10.1016/j.worlddev.2018.02.021 
+
+##### Annotation:
+
