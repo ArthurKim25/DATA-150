@@ -51,3 +51,10 @@ The author, Joshua Eastin, mainly focuses on women's rights and gender equality 
 The datasets that Eastin uses are the Cingranelli-Richards Human Rights Dataset for quantifying women's rights, and estimates based on the "Terrestrial Air Temperature and Precipitation: Monthly and Annual Time Series Dataset" by the researchers Burke, Hsiang and Miguel in their publication, "Global Non-Linear Effect of Temperature on Economic Production," for the purpose of examining temperature and precipitation. In order to determine the correlation between climate change effects and women's rights in developing countries, Eastin uses ordered-logistic regressions, followed by ordered-probit regressions and ordered-logistic regressions with random effects in order to verify the validity of his assessment. He found that increases in temperature do appear to negatively affect women's rights, but that there was no statistically significant effect from precipitation.
 
 The development process that Eastin investigates is how resilience (or lack thereof) to the effect climate change impacts gender equality and adaptive capabilities of women in particular. In his research, the two scientific questions Eastin explores are whether or not the environmental effects of climate change negatively impact women's rights in developing areas, and if the effects exert a greater negative influence on women's rights in places that are more underdeveloped, dependent on agriculture and have less democratic governments.  
+
+### Article 4: Tropical Storms and Mortality Under Climate Change
+##### Author: Todd Pugatch
+##### Reference:
+Pugatch, T. (2019). Tropical Storms and Mortality Under Climate Change. World Development, 117, 172–182. https://doi.org/10.1016/j.worlddev.2019.01.009 
+
+##### Annotation:
