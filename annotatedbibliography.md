@@ -4,7 +4,7 @@
 ### Professor Frazier
 ### 3 Oct 2021
 
-###### Word Count:
+###### Word Count: 2181
 
 ### Article 1: Mobile Phone Data for Urban Climate Change Adaptation: Reviewing Applications, Opportunities and Key Challenges
 ##### Authors: Sébastien Dujardin, Damien Jacques, Jessica Steele, Catherine Linard
