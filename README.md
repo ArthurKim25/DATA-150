@@ -20,4 +20,4 @@ Hey guys, I'm Arthur Kim (he/him).  I'm from Pennington, New Jersey, and I plan 
 
 [Assignment 1: Annotated Bibliography](annotatedbibliography.html)
 
-[Assignment 2: Literature Review] (literaturereview.html)
+[Assignment 2: Literature Review](literaturereview.html)
