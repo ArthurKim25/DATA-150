@@ -18,6 +18,8 @@ Hey guys, I'm Arthur Kim (he/him).  I'm from Pennington, New Jersey, and I plan 
 9/30/21 [Gapminder Essay](essaysept30.html)
 
 10/7/21 [Our World in Data Essay](ourworldindataessay.html)
+
+10/12/21 [China Infrastructure Essay](essayoct12.html)
 ## Formal Assignments
 
 [Assignment 1: Annotated Bibliography](annotatedbibliography.html)
