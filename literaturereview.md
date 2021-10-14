@@ -3,3 +3,13 @@
 ### 24 Oct 2021
 
 # Climate Change: Improving the Quality of Gender Disaggregated Vulnerability Measurements
+
+## References
+1. Azzarri, C., & Signorelli, S. (2019). Climate and poverty in Africa South of the Sahara. World Development, 125, 104691. https://doi.org/10.1016/j.worlddev.2019.104691
+2. Dujardin, S., Jacques, D., Steele, J., & Linard, C. (2020). Mobile Phone Data for Urban Climate Change Adaptation: Reviewing Applications, Opportunities and Key Challenges. Sustainability, 12(4), 1501. https://doi.org/10.3390/su12041501
+3. Eastin, J. (2018). Climate change and gender equality in developing states. World Development, 107, 289–305. https://doi.org/10.1016/j.worlddev.2018.02.021
+4. Huntingford, C., Jeffers, E. S., Bonsall, M. B., Christensen, H. M., Lees, T., &amp; Yang, H. (2019). Machine Learning and Artificial Intelligence to aid climate change research and Preparedness. Environmental Research Letters, 14(12), 124007. https://doi.org/10.1088/1748-9326/ab4e55 
+5. Lau, J. D., Kleiber, D., Lawless, S., &amp; Cohen, P. J. (2021). Gender equality in climate policy and practice hindered by assumptions. Nature Climate Change, 11(3), 186–192. https://doi.org/10.1038/s41558-021-00999-7 
+6. Pugatch, T. (2019). Tropical Storms and Mortality Under Climate Change. World Development, 117, 172–182. https://doi.org/10.1016/j.worlddev.2019.01.009
+7. Rautio, A., Kukarenko, N., Nilsson, L. M., &amp; Evengard, B. (2021). Climate change in the Arctic—the need for a broader gender perspective in data collection. International Journal of Environmental Research and Public Health, 18(2), 628. https://doi.org/10.3390/ijerph18020628 
+8. Tapley, B. D., Watkins, M. M., Flechtner, F., Reigber, C., Bettadpur, S., Rodell, M., Sasgen, I., Famiglietti, J. S., Landerer, F. W., Chambers, D. P., Reager, J. T., Gardner, A. S., Save, H., Ivins, E. R., Swenson, S. C., Boening, C., Dahle, C., Wiese, D. N., Dobslaw, H., … Velicogna, I. (2019). Contributions of GRACE to understanding climate change. Nature Climate Change, 9(5), 358–369. https://doi.org/10.1038/s41558-019-0456-2 
