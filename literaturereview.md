@@ -1,8 +1,8 @@
+# Climate Change: Improving the Quality of Gender Disaggregated Vulnerability Measurements
+
 ### Arthur Kim
 ### Professor Brewer
 ### 24 Oct 2021
-
-# Climate Change: Improving the Quality of Gender Disaggregated Vulnerability Measurements
 
 ## References
 1. Azzarri, C., & Signorelli, S. (2019). Climate and poverty in Africa South of the Sahara. World Development, 125, 104691. https://doi.org/10.1016/j.worlddev.2019.104691
