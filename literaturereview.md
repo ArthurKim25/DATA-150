@@ -4,6 +4,7 @@
 ### Professor Brewer
 ### 24 Oct 2021
 
+It is no mystery that climate change is a dire issue that plagues all of humanity. Therefore, much research has gone into understanding how it affects populations and human development, as well as the ability to forecast climate-related disasters so that we can act accordingly. Today, we understand that not everybody is affected the same way from the effects of climate change, and as a result, different needs need to be met (7).  To put it simply, we know that climate change has negative effects on popolations across the globe, despite all of the individual differences (1, 3, 5-7). In order to deal with vulnerability to different climate disasters, we have sophisticated means of forecasting which allow for timely warnings and action. Despite our understanding and technical prowess, we have not perfected our ability to evaluate vulnerability and make policies accordingly. Only recently have we begun to understand the importance of considering the role of sex and gender in climate change vulnerability (7).  As a result, much of the current climate change literature fails to account for such.
 ## References
 1. Azzarri, C., & Signorelli, S. (2019). Climate and poverty in Africa South of the Sahara. World Development, 125, 104691. https://doi.org/10.1016/j.worlddev.2019.104691
 2. Dujardin, S., Jacques, D., Steele, J., & Linard, C. (2020). Mobile Phone Data for Urban Climate Change Adaptation: Reviewing Applications, Opportunities and Key Challenges. Sustainability, 12(4), 1501. https://doi.org/10.3390/su12041501
