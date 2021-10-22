@@ -3,6 +3,7 @@
 ### Arthur Kim
 ### Professor Brewer
 ### 24 Oct 2021
+###### Word Count: 
 
 It is no mystery that climate change is a dire issue that plagues all of humanity. Therefore, much research has gone into understanding how it affects populations and human development, as well as the ability to forecast climate-related disasters so that we can act accordingly. Today, we understand that not everybody is affected the same way from the effects of climate change, and as a result, different needs need to be met (7).  To put it simply, we know that climate change has negative effects on populations across the globe, despite all of the regional differences (1, 3, 5-7). In order to determine and deal with vulnerability to different climate disasters, we have sophisticated means of forecasting as well as geospatial population data which allow for appropriate warnings and action. Despite our understanding and technical prowess, we have not perfected our ability to evaluate vulnerability and make policies accordingly. For one, due to the high amount of complexity in climate science, it is near-impossible to perfectly determine the effects of climate change (6). Additionally, only recently have we begun to understand the importance of considering the role of sex and gender in climate change vulnerability (7).  As a result, much of the current climate change literature fails to account for such.
 
