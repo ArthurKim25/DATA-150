@@ -1,4 +1,4 @@
-# Climate Change: Improving the Quality of Gender Disaggregated Measurements of Vulnerability to Climate Change
+# Climate Change: Improving Gender Disaggregated Measurements of Vulnerability to Climate Change
 
 ### Arthur Kim
 ### Professor Brewer
