@@ -22,6 +22,8 @@ Hey guys, I'm Arthur Kim (he/him).  I'm from Pennington, New Jersey, and I plan 
 10/12/21 [China Infrastructure Essay](essayoct12.html)
 
 10/21/21 [Diamandis Essay](essay1021.html)
+
+10/28/21 [What is Data Science Essay](essayoct28.html)
 ## Formal Assignments
 
 [Assignment 1: Annotated Bibliography](annotatedbibliography.html)
