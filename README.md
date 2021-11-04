@@ -26,6 +26,8 @@ Hey guys, I'm Arthur Kim (he/him).  I'm from Pennington, New Jersey, and I plan 
 10/28/21 [What is Data Science Essay](essayoct28.html)
 
 11/2/21 [Human Development Index Essay](essaynov2.html)
+
+11/4/21 [New Topic in Data Science Essay](essaynov4.html)
 ## Formal Assignments
 
 [Assignment 1: Annotated Bibliography](annotatedbibliography.html)
