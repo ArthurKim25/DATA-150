@@ -30,6 +30,8 @@ Hey guys, I'm Arthur Kim (he/him).  I'm from Pennington, New Jersey, and I plan 
 11/4/21 [New Topic in Data Science Essay](essaynov4.html)
 
 11/9/21 [Facial Recognition Data Essay](essaynov9.html)
+
+11/11/21 [COVID Impact on Major Essay](essaynov11.html)
 ## Formal Assignments
 
 [Assignment 1: Annotated Bibliography](annotatedbibliography.html)
