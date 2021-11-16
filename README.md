@@ -32,6 +32,8 @@ Hey guys, I'm Arthur Kim (he/him).  I'm from Pennington, New Jersey, and I plan 
 11/9/21 [Facial Recognition Data Essay](essaynov9.html)
 
 11/11/21 [COVID Impact on Major Essay](essaynov11.html)
+
+11/15/21 [Self-Driving Cars Essay](essaynov15.html)
 ## Formal Assignments
 
 [Assignment 1: Annotated Bibliography](annotatedbibliography.html)
