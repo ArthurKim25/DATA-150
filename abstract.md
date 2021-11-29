@@ -4,4 +4,4 @@
 
 ## Abstract
 
-This presentation seeks to explore the potential role of gender-disaggregated CDR's in studying climate change and disaster vulnerability.  
+This presentation seeks to explore the potential role of gender-disaggregated call detail records (CDR's) in studying vulnerability to climate change.  
