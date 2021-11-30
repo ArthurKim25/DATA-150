@@ -2,6 +2,8 @@
 ### Professor Brewer
 ### 30 Nov 2021
 
+# Examining the Potential of Gender Disaggregated CDR's in Mitigating Gender Inequality in Climate Change Vulnerability
+
 ## Abstract
 
 This presentation seeks to explore the potential role of gender-disaggregated call detail records (CDR's) in studying vulnerability to climate change. Climate change is a dire issue as it has detrimental ramifications for human development. Although the exact effects differ depending on location, it generally has adverse effects on human health and even socioeconomic well-being (1, 7). In this day and age, we have phenomenal disaster forecasting abilities thanks to the GRACE and GRACE-Fo satellite programs as well as the use of machine learning and AI with our current climate models (5, 9). However, in order for these forecasts to be useful, we have to know who is most vulnerable and make sure they receive appropriate warnings and aid. CDR's provide data about population dynamics at a high spatial and temporal resolution, making them a great tool for knowing the population distribution and which people are located in the most vulnerable areas (3). When Csáji et al. regressed CDR data with independent statistics, they found a correlation of 0.92, validating it as a means of determining population dynamics (2). By combining CDR's with our forecasting and tracking abilities, we have an amazing capacity to adapt to climate disasters, allowing us to improve the safety and well-being of our society.
