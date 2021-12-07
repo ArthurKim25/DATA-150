@@ -43,3 +43,5 @@ Hey guys, I'm Arthur Kim (he/him).  I'm from Pennington, New Jersey, and I plan 
 [Assignment 3: Methodological Investigation](methodologicalinvestigation.html)
 
 [Assignment 4: Presentation Abstract](abstract.html)
+
+[Final: Research Proposal](final.html)
