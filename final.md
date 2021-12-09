@@ -1,8 +1,11 @@
 ### Arthur Kim
 ### Professor Brewer
 ### 14 Dec 2021
-## Climate Change Vulnerability: Using Gender-Disaggregated CDR's to Mitigate Disparity
-We propose an investigation utilizing gender-disaggregated call detail records (CDR's) in order to test their effectiveness in facilitating the mitigation of gender disparities in climate change vulnerability. In most places around the world, men and women do not suffer the same way from climate change (8). Oftentimes, 
+## Climate Change Vulnerability: Using Gender-Disaggregated CDR's to Mitigate Gender Disparity
+##### Summary
+We propose an investigation utilizing gender-disaggregated call detail records (CDR's) in order to test their effectiveness in facilitating the mitigation of gender disparities in climate change vulnerability. 
+##### Motivation and Reasoning for this Study
+Climate change is a dire issue that affects the entire world and In most places around the world, men and women do not suffer the same way from climate change due to a number of factors such as differences in lifestyles and stereotypic perceptions about each gender (6, 8). As a result, men and women have different specific needs when it comes to addressing their vulnerabilities (8). One of the biggest gaps in the literature is the lack of adequate gender-disaggregated data in climate studies (6). This makes it very easy to have to rely on assumptions and generalizations rather than facts, which results in inadequate climate policies and action (6). With our investigation, we will produce an objective, real-time measurement of the distributions of each gender in vulnerable areas, filling this gap and allowing for more effective decisions to be made.  
 
 ## References:
 1. Azzarri, C., & Signorelli, S. (2019). Climate and poverty in Africa South of the Sahara. World Development, 125, 104691. https://doi.org/10.1016/j.worlddev.2019.104691
