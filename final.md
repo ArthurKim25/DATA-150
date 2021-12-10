@@ -22,8 +22,9 @@ In order to make use of the CDR's we obtain, we will follow a procedure taken by
 We hypothesize that by being more aware of gender disparities in climate change vulnerability and helping them more effectively, we can spread more awareness and help make progress towards greater gender inequality in the areas we explore.
 
 #### Why This Plan Should be Considered
-In his book, *Development as Freedom*, Amartya Sen defines human development as the increase in socioeconomic freedoms and security, and wellbeing as a whole (9).  
+In his book, *Development as Freedom*, Amartya Sen defines human development as the increase in socioeconomic freedoms and security, and wellbeing as a whole (9). He also defines poverty as the lack of said freedoms (9). Based on this, it is clear that climate change itself negatively affects human development. Because climate disasters like floods and tropical storms are oftentimes lethal, they diminish public health by increasing mortality (7). Additionally, in Sub-Saharan Africa particularly, climate disasters negatively affect food security (1). Azzarri et al. in their *World Development* article, "Climate and poverty in Africa South of the Sahara. World Development" show that Sub-Saharan African agriculture is negatively impacted by floods and temperature rises, which consequently reduces the amount of food available, leading to many other problems such as malnutrition and worse wellbeing (1). Evidently, climate change has disasterous consequences for human development, so because our plan involves mitigating these issues, it would be worth considering funding.
 
+Additionally, an important freedom Sen discusses in his book
 ## References:
 1. Azzarri, C., & Signorelli, S. (2019). Climate and poverty in Africa South of the Sahara. World Development, 125, 104691. https://doi.org/10.1016/j.worlddev.2019.104691
 2. Csáji, B. C., Browet, A., Traag, V. A., Delvenne, J.-C., Huens, E., Van Dooren, P., Smoreda, Z., & Blondel, V. D. (2013). Exploring the mobility of mobile phone users. Physica A: Statistical Mechanics and Its Applications, 392(6), 1459–1473. https://doi.org/10.1016/j.physa.2012.11.040
