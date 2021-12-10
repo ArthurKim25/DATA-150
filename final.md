@@ -13,7 +13,7 @@ As was just stated previously, in order to address the lack of sufficient gender
 
 CDR's provide spatial and temporal data about people by localizing them to a particular base transceiver station (BTS) when the make a phone call, as well as recording the time and duration of the call (3). CDR's also contain information about the gender of the caller, allowing for them to be gender-disaggregated. When the CDR's of a large number of people are lumped together, we get an overall picture of the population dynamics and distribution.
 
-Using Earth System Models (ESM's) combined with machine learning and AI, we have the ability to accurately forecast climate disasters well in advance (5). In fact, one source of ESM data, the Gravity Recovery and Climate Experiment (GRACE) allowed for scientists to forecast the flooding of the Mississippi River six weeks in advance back in 2011 (9). All ESM's are aggregated into a single database called Coupled Model Intercomparison Project Phase 5 (CMIP5), which is what is primarily used in order to make disaster forecasts (5).
+Using Earth System Models (ESM's) combined with machine learning and AI, we have the ability to accurately forecast climate disasters well in advance (5). In fact, one source of ESM data, the Gravity Recovery and Climate Experiment (GRACE) allowed for scientists to forecast the flooding of the Mississippi River six weeks in advance back in 2011 (10). All ESM's are aggregated into a single database called Coupled Model Intercomparison Project Phase 5 (CMIP5), which is what is primarily used in order to make disaster forecasts (5).
 
 Using ML and AI with CMIP5, we will look for an imminent climate disaster such as a flood or tropical storm, and then determine the area in the world most vulnerable to it. Given the timeliness of these forecasts, we anticipate that we'll have sufficient time to carry out our operations. We will then fly to the area in the world where the disaster will strike. We will then contact the local cellular providers in order to obtain as many CDR's as possible. We will then disaggregate them based on the gender of each caller in order to work with them separately.  
 
@@ -22,7 +22,7 @@ In order to make use of the CDR's we obtain, we will follow a procedure taken by
 We hypothesize that by being more aware of gender disparities in climate change vulnerability and helping them more effectively, we can spread more awareness and help make progress towards greater gender inequality in the areas we explore.
 
 #### Why This Plan Should be Considered
-In his book, *Development as Freedom*, Amartya Sen defines human development as the increase in socioeconomic freedoms and security, and wellbeing as a whole.  
+In his book, *Development as Freedom*, Amartya Sen defines human development as the increase in socioeconomic freedoms and security, and wellbeing as a whole (9).  
 
 ## References:
 1. Azzarri, C., & Signorelli, S. (2019). Climate and poverty in Africa South of the Sahara. World Development, 125, 104691. https://doi.org/10.1016/j.worlddev.2019.104691
@@ -33,4 +33,5 @@ In his book, *Development as Freedom*, Amartya Sen defines human development as 
 6. Lau, J. D., Kleiber, D., Lawless, S., & Cohen, P. J. (2021). Gender equality in climate policy and practice hindered by assumptions. Nature Climate Change, 11(3), 186–192. https://doi.org/10.1038/s41558-021-00999-7
 7. Pugatch, T. (2019). Tropical Storms and Mortality Under Climate Change. World Development, 117, 172–182. https://doi.org/10.1016/j.worlddev.2019.01.009
 8. Rautio, A., Kukarenko, N., Nilsson, L. M., & Evengard, B. (2021). Climate change in the Arctic—the need for a broader gender perspective in data collection. International Journal of Environmental Research and Public Health, 18(2), 628. https://doi.org/10.3390/ijerph18020628
-9. Tapley, B. D., Watkins, M. M., Flechtner, F., Reigber, C., Bettadpur, S., Rodell, M., Sasgen, I., Famiglietti, J. S., Landerer, F. W., Chambers, D. P., Reager, J. T., Gardner, A. S., Save, H., Ivins, E. R., Swenson, S. C., Boening, C., Dahle, C., Wiese, D. N., Dobslaw, H., … Velicogna, I. (2019). Contributions of GRACE to understanding climate change. Nature Climate Change, 9(5), 358–369. https://doi.org/10.1038/s41558-019-0456-2
+9. Sen, A. (2019). Development as freedom. MTM. 
+10. Tapley, B. D., Watkins, M. M., Flechtner, F., Reigber, C., Bettadpur, S., Rodell, M., Sasgen, I., Famiglietti, J. S., Landerer, F. W., Chambers, D. P., Reager, J. T., Gardner, A. S., Save, H., Ivins, E. R., Swenson, S. C., Boening, C., Dahle, C., Wiese, D. N., Dobslaw, H., … Velicogna, I. (2019). Contributions of GRACE to understanding climate change. Nature Climate Change, 9(5), 358–369. https://doi.org/10.1038/s41558-019-0456-2
