@@ -11,8 +11,7 @@ As was just stated previously, in order to address the lack of sufficient gender
 
 CDR's provide spatial and temporal data about people by localizing them to a particular base transceiver station (BTS) when the make a phone call, as well as recording the time and duration of the call (3). CDR's also contain information about the gender of the caller, allowing for them to be gender-disaggregated. When the CDR's of a large number of people are lumped together, we get an overall picture of the population dynamics and distribution.
 
-Using Earth System Models (ESM's) combined with machine learning and AI, we have the ability to accurately forecast climate disasters well in advance (5).  
-
+Using Earth System Models (ESM's) combined with machine learning and AI, we have the ability to accurately forecast climate disasters well in advance (5). In fact, one source of ESM data, the Gravitatio
 ## References:
 1. Azzarri, C., & Signorelli, S. (2019). Climate and poverty in Africa South of the Sahara. World Development, 125, 104691. https://doi.org/10.1016/j.worlddev.2019.104691
 2. Csáji, B. C., Browet, A., Traag, V. A., Delvenne, J.-C., Huens, E., Van Dooren, P., Smoreda, Z., & Blondel, V. D. (2013). Exploring the mobility of mobile phone users. Physica A: Statistical Mechanics and Its Applications, 392(6), 1459–1473. https://doi.org/10.1016/j.physa.2012.11.040
