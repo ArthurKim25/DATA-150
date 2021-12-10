@@ -4,8 +4,10 @@
 ## Climate Change Vulnerability: Using Gender-Disaggregated CDR's to Mitigate Gender Disparity
 #### Summary
 We propose an investigation utilizing gender-disaggregated call detail records (CDR's) in order to test their effectiveness in facilitating the mitigation of gender disparities in climate change vulnerability. 
+
 #### Motivation and Reasoning for this Study
 Climate change is a dire issue that affects the entire world and brings about many ramifications. In most places around the world, men and women do not suffer the same way from climate change due to a number of factors such as differences in lifestyles and stereotypic gender perceptions (6, 8). As a result, men and women have different specific needs when it comes to addressing their vulnerabilities (8). One of the biggest gaps in the literature is the lack of adequate gender-disaggregated data in climate studies (6). This makes it very easy to have to rely on assumptions and generalizations rather than facts, which results in inadequate climate policies and action (6). With our investigation, we will produce an objective, real-time measurement of the distributions of each gender in vulnerable areas, filling this gap. We anticipate that wherever we act, people of all genders will benefit from this because it will facilitate the enactment of more effective gender-focused climate policies, aid allocation, and proactive adaptive measures, overall reducing vulnerability.
+
 #### Proposed Solution and Plan
 As was just stated previously, in order to address the lack of sufficient gender-disaggregated data for climate studies, we will use gender-disaggregated CDR's in order to generate high spatial and temporal resolution maps of the distributions of each gender in areas vulnerable to climate disasters. 
 
@@ -18,6 +20,10 @@ Using ML and AI with CMIP5, we will look for an imminent climate disaster such a
 In order to make use of the CDR's we obtain, we will follow a procedure taken by Csáji et al.  First we will use a Voronoi Tesselation the area of interest based on the BTS locations in order to assign each point in space to its nearest BTS. We will the use Delaunay Neighborship in order to designate "frequent locations." To the CDR data we obtain, we will apply k-means clustering in order to work out a spatial and temporal pattern of caller activity and dynamics. We will then compare our population distribution maps of both men and women in order to work out the gender distribution in each area of our chosen location. In their original study, when Csáji et al. compared their CDR-based assessments to independent statistics from the Portuguese National Institute of Statistics, they obtained a correlation of 0.92 (2). Because of this high correlation, we are confident that our study will produce accurate and meaningful results. We will then examine the overall gender distributions across the vulnerable areas in order to look for any unequal distributions. We will then present our gender-disaggregated population distribution map to the local government and aid organizations so that they can take appropriate adaptive measures. Additionally, when the climate disaster strikes, the aid organizations will not only know how much aid to allocate, but also the proportions of each gender-specific aid.
 
 We hypothesize that by being more aware of gender disparities in climate change vulnerability and helping them more effectively, we can spread more awareness and help make progress towards greater gender inequality in the areas we explore.
+
+#### Why This Plan Should be Considered
+In his book, *Development as Freedom*, Amartya Sen defines human development as the increase in socioeconomic freedoms and security, and wellbeing as a whole.  
+
 ## References:
 1. Azzarri, C., & Signorelli, S. (2019). Climate and poverty in Africa South of the Sahara. World Development, 125, 104691. https://doi.org/10.1016/j.worlddev.2019.104691
 2. Csáji, B. C., Browet, A., Traag, V. A., Delvenne, J.-C., Huens, E., Van Dooren, P., Smoreda, Z., & Blondel, V. D. (2013). Exploring the mobility of mobile phone users. Physica A: Statistical Mechanics and Its Applications, 392(6), 1459–1473. https://doi.org/10.1016/j.physa.2012.11.040
