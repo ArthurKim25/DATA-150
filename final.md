@@ -2,6 +2,7 @@
 ### Professor Brewer
 ### 14 Dec 2021
 ## Climate Change Vulnerability: Using Gender-Disaggregated CDR's to Mitigate Gender Disparity
+###### Word Count:
 #### Summary
 We propose an investigation utilizing gender-disaggregated call detail records (CDR's) in order to test their effectiveness in facilitating the mitigation of gender disparities in climate change vulnerability. 
 
