@@ -44,6 +44,7 @@ We recognize that there are several potential shortcomings with our research pla
 Admittedly, because of the complexity and vast differences across cultures and areas of the world, even without bias, there's no guarantee that analyzing CDR's will prove as effective as it did in Csáji et al.'s original study if used in different parts of the world. In order to ensure the veracity of our results, we will compare them to independent statistics from the area if available. Should our measurements prove less than ideal, we can compensate with survey data in order to form as complete a picture as possible.
 
 #### Anticipated Costs
+<img width="472" alt="2021-12-10 (2)" src="https://user-images.githubusercontent.com/89988247/145659172-68b082cf-2edb-4124-ad70-a25da30a151f.png">
 
 ## References:
 1. Azzarri, C., & Signorelli, S. (2019). Climate and poverty in Africa South of the Sahara. World Development, 125, 104691. https://doi.org/10.1016/j.worlddev.2019.104691
